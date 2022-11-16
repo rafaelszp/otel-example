@@ -1,0 +1,3 @@
+CREATE TABLE DIV_DATA (
+    value int NOT NULL PRIMARY KEY
+);

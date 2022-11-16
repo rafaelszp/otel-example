@@ -1,0 +1,16 @@
+insert into OPERATION (id,type,operator1,operator2) values
+(1,'SUM',1,9),
+(2,'SUM',2,8),
+(3,'SUM',3,7),
+(4,'SUM',4,6),
+(5,'SUM',5,5),
+(6,'SUM',6,4),
+(7,'SUM',7,3),
+(8,'SUM',8,2),
+(9,'SUM',9,1),
+(10,'SUM',0,0),
+(14,'SUM',10,0),
+(15,'DIV',10,0),
+(16,'MUL',10,0),
+(17,'SUB',10,0),
+(18,'DIV',4,2);

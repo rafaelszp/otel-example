@@ -1,0 +1,9 @@
+.history
+signoz/
+jaeger/
+glowroot/
+**/*.jar
+**/target
+**/.idea
+**/*.iml
+**/*.log
